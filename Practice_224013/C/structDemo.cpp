@@ -4,7 +4,7 @@
 //tạo ra cấu trúc dữ liệu struct employee
 struct employee {
     int empId;
-    char empName[200]; // change the salary by requirement #1234
+    char empName[250]; // change the salary by requirement #1234
     int salary;
 };
 
