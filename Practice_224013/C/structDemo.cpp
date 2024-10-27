@@ -5,7 +5,7 @@
 struct employee {
     int empId;
 
-    char empName[700]; // change the salary by requirement #1234
+    char empName[7000]; // change the salary by requirement #1234
 
     int salary;
 };
