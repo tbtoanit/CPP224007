@@ -4,11 +4,9 @@
 //tạo ra cấu trúc dữ liệu struct employee
 struct employee {
     int empId;
-<<<<<<< HEAD
-    char empName[100]; // change the salary by requirement #1234
-=======
-    char empName[200]; // change the salary by requirement #1234
->>>>>>> 595011e99dbe54e31e5109730846592825dde4ac
+
+    char empName[500]; // change the salary by requirement #1234
+
     int salary;
 };
 
