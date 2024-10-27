@@ -1,0 +1,3 @@
+/Users/toantran/CLionProjects/Practice_224013/cmake-build-debug/CMakeFiles/Practice_224013.dir
+/Users/toantran/CLionProjects/Practice_224013/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toantran/CLionProjects/Practice_224013/cmake-build-debug/CMakeFiles/rebuild_cache.dir
