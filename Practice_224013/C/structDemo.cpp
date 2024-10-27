@@ -4,7 +4,7 @@
 //tạo ra cấu trúc dữ liệu struct employee
 struct employee {
     int empId;
-    char empName[100];
+    char empName[50]; // change the salary by requirement #1234
     int salary;
 };
 
@@ -14,7 +14,7 @@ int main() {
     // gán dữ liệu cho biến
     e1.empId = 1001;
     strcpy(e1.empName, "Tom"); // gán một chuỗi cho e1.name thông qua strcpy function
-    e1.salary = 10000000;
+    e1.salary = 20000000; // change the salary by requirement #1234
 
     printf("%d", e1.empId);
 
@@ -24,7 +24,7 @@ int main() {
     // gán dữ liệu cho biến
     e2.empId = 1001;
     strcpy(e2.empName, "Tom"); // gán một chuỗi cho e1.name thông qua strcpy function
-    e2.salary = 10000000;
+    e2.salary = 20000000; // change the salary by requirement #1234
 
     printf("%d", e2.empId);
 
