@@ -63,7 +63,7 @@ int main() {
 // (command + /)
 
 int main() {
-    int soBiChia = 10;
+    int soBiChia = 90;
     int soChia;
     cout << "Nhập số chia: ";
     cin >> soChia;
