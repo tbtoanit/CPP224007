@@ -7,9 +7,11 @@
 
 int main() {
     int x = 10;
+	int y = 20;
     int *p = &x; //biến p được gọi là pointer/cursor/con trỏ
 
     printf("%p", p);
 
     printf("Change something here");
+	printf("done");
 }
