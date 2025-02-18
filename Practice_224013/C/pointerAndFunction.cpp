@@ -10,4 +10,5 @@ int main() {
     increaseValue(&x);
 
     printf("%d", x);
+    printf("Hello Moto");
 }
