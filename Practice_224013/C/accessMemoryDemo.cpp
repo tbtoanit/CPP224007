@@ -10,4 +10,6 @@ int main() {
     int *p = &x; //biến p được gọi là pointer/cursor/con trỏ
 
     printf("%p", p);
+
+    printf("Change something here");
 }
