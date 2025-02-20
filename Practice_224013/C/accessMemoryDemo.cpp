@@ -19,4 +19,5 @@ int main() {
     printf("done");printf("done");
 
     printf("hello");
+    printf("i am nhat") ;
 }
