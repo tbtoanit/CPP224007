@@ -13,18 +13,10 @@ int main() {
     printf("%p", p);
 
     printf("Change something here");
-<<<<<<< HEAD
     printf("HuynhCuNhan");
-=======
 	printf("done");
-<<<<<<< HEAD
->>>>>>> 35952405043ee42ddd1a164944088e1fd18a0722
+    printf("done");
+    printf("done");printf("done");
 
-printf("done");
-printf("done");printf("done");
-
-
-=======
     printf("hello");
->>>>>>> ba22c9f54813e70f8ea61735e43736703b1d1356
 }
