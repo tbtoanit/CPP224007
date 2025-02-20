@@ -19,15 +19,11 @@ void sortArray(int arr1[]) {
 
 
 int main() {
-    // int arr[3] = {10, 20, 30};
-    // int *p = arr;
-    // for (int i = 0; i < 3; i++) {
-    //     printf("%d\n", *(p + i));
-    // }
-    // //
     int arr1[5] = {40, 10, 30, 20, 50};
-    sortArray(arr1); // tham khảo thuật toán selection sort
+    sortArray(arr1);
     for (int i = 0; i < 5; i++) {
         printf("%d-", arr1[i]);
     }
+    
+    printf("\nda chinh sua file\n");
 }
