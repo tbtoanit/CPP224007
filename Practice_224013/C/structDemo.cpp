@@ -29,5 +29,6 @@ int main() {
     e2.salary = 20000000; // change the salary by requirement #1234
 
     printf("%d", e2.empId);
+    printf("Kay was here");
 
 }
