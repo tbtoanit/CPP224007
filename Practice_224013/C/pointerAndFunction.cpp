@@ -5,8 +5,10 @@ void increaseValue(int *n) {
 }
 
 int main() {
-    int x = 0;
-
+    int x = 1;
+    for (int i = 0; i < x >> 2; i++) {
+         x <<= 2;
+    }
     increaseValue(&x);
 
     printf("%d", x);
