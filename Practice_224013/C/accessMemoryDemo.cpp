@@ -1,8 +1,3 @@
-/*
- * Mỗi dữ liệu sẽ được dedicate vào 1 vùng nhớ trong "bộ nhớ trong"
- * Để truy xuất vùng nhớ hay địa chỉ bộ nhớ dùng cú pháp "&ten_bien"
- */
-
 #include <stdio.h>
 
 int main() {
