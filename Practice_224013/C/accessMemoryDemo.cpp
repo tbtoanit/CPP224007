@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    int z = 1;//QA
 
     printf("HuynhCuNhan");
 
