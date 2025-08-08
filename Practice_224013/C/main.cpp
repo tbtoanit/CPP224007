@@ -4,6 +4,6 @@ int main()
 {
 	int y= 0;
 
-    std::cout << "Hello, Tom. How are you!" << std::endl;
+    std::cout << "Hello, Huy, i'm 22" << std::endl;
     return 0;
 }
