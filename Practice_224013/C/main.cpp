@@ -4,6 +4,6 @@ int main()
 {
 	int y= 0;// xin chao day la cmt cua Dinh
 
-    std::cout << "Hello, Huy, i'm 22" << std::endl;
+    std::cout << "Hello, Thanh da o day" << std::endl;
     return 0;
 }
