@@ -12,4 +12,5 @@ int main()
     cout << z << endl;
     cout << "Thầy thêm đoạn code này" << endl;
     return 0;
+	cout<<"Nguyen Duc Long"<<endl;
 }
