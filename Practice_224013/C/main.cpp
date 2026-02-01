@@ -10,5 +10,6 @@ int main()
     cout<<m;
     int z = 15;
     cout << z << endl;
+    cout << "Thầy thêm đoạn code này" << endl;
     return 0;
 }
