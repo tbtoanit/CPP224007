@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -6,5 +7,7 @@ int main()
 
     std::cout << "Ey yo, what's up, bruh!" << std::endl;
     // std::cout << "Hello, Thanh da o day" << std::endl;
+    int z = 15;
+    cout << z << endl;
     return 0;
 }
